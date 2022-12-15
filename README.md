@@ -13,3 +13,8 @@ ive learned from my 4 years of CompSci 1-2, Robotics, Practicum, and P.I.T.
 * Coding a Discord Bot in Python with working commands.
 * Using Flowlab to learn how coding works together to form one big project.
 
+<details>
+<summary>Hidden Text</summary>
+<br>
+You found me!
+</details>
