@@ -19,7 +19,9 @@ some of my skills and projects i have worked on throughout all of High School.
 <details>
 <summary>Used Flowlab to for introduction to coding.</summary>
 <br>
+
 ![Game Code](https://user-images.githubusercontent.com/119702803/207969903-b57eea8b-4aef-4e26-82aa-50e93e1eb119.PNG)
+
 This is some of the code used to create my game.
 The whole purpose of this was to see how code works together to form projects.
 </details>
