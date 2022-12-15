@@ -12,4 +12,4 @@ ive learned from my 4 years of CompSci 1-2, Robotics, Practicum, and P.I.T.
 * Learning the internal structure of Computers and how they function.
 * Coding a Discord Bot in Python with working commands.
 * Using Flowlab to learn how coding works together to form one big project.
-![Game Code](https://user-images.githubusercontent.com/119702803/207956540-c0bb1d79-413b-49e8-b5e4-268b2e1be045.PNG)
+
