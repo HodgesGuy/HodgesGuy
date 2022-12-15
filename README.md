@@ -1,6 +1,6 @@
 # Profile Introduction
 
-###About Me
+### About Me
 
 I am a Senior in High School soon to be graduating. Ive created this git hub to show off
 some of my skills and projects i have worked on throughout all of High School.
