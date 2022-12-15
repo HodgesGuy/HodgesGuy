@@ -1,20 +1,43 @@
-## Profile Introduction
+# Profile Introduction
 
-This is my very first GitHub repository that holds all the skills
-ive learned from my 4 years of CompSci 1-2, Robotics, Practicum, and P.I.T.
+###About Me
 
+I am a Senior in High School soon to be graduating. Ive created this git hub to show off
+some of my skills and projects i have worked on throughout all of High School.
 
-
-### Skills
-* 4 years of C++ Java coding mainly with loops,if statments, and algorithms.
-* Intro Corse Certification in Python.
-* Learning to create, Code, and format websites.
-* Learning the internal structure of Computers and how they function.
-* Coding a Discord Bot in Python with working commands.
-* Using Flowlab to learn how coding works together to form one big project.
+### Skills and Projects
 
 <details>
-<summary>Hidden Text</summary>
+<summary>4 years of C++ Java coding</summary>
 <br>
-You found me!
+</details>
+
+<details>
+<summary>Completed the Python Intro Course Certification</summary>
+<br>
+</details>
+
+<details>
+<summary>Created, coded, and formating a website.</summary>
+<br>
+</details>
+
+<details>
+<summary>Learned about computers internal structure and how they function.</summary>
+<br>
+</details>
+
+<details>
+<summary>Created a Discord Bot with working commands in Python.</summary>
+<br>
+</details>
+
+<details>
+<summary>Used Flowlab to see how code works together to form projects.</summary>
+<br>
+</details>
+
+<details>
+<summary>Worked on engineering projects using Arduinos.</summary>
+<br>
 </details>
